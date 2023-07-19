@@ -16,4 +16,6 @@ Continuing my understanding of how the human mind and brain work, completed this
 ## Skills: 
 **Data Visualization · Data Analysis · Machine Learning**
 
-  [View Certification of Completion?](https://www.credential.net/63baef96-a91c-40b5-9e9c-f09c0be3b70f)
+> [View Certification of Completion?](https://www.credential.net/63baef96-a91c-40b5-9e9c-f09c0be3b70f)
+
+Yes, I am available [for hire](https://www.linkedin.com/in/clintonboyda/)
