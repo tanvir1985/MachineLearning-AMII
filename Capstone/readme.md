@@ -8,6 +8,7 @@ Presentation to industry professionals to highlight how an ML solution can solve
 * [Google Colab Python Group Project File](https://github.com/cboyda/MachineLearning/blob/main/Capstone/Capstone_Team1_W23.ipynb) 
 
 ### Datasets:
+from [New York City Airbnb Open Data](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
 * [Original AirBnb](https://github.com/cboyda/MachineLearning/blob/main/datasets/AB_NYC_2019.csv)
 * [Merged Additional AirBnb Columns](https://github.com/cboyda/MachineLearning/blob/main/datasets/full_nyc_dataset_cleaned_table-1.csv)
 
@@ -27,9 +28,6 @@ Presentation to industry professionals to highlight how an ML solution can solve
 * Data Cleaning and Preprocessing: 90%
 * Business Value: 88%
 * Technical Value: 82%
-
-# ## Dataset
-[New York City Airbnb Open Data](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
 
 
 
