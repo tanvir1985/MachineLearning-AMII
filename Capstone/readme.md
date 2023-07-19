@@ -2,7 +2,7 @@
 
 Presentation to industry professionals to highlight how an ML solution can solve a business problem with 5 classmates.
 
-## Files:
+### Files:
 * [Powerpoint Presentation](https://github.com/cboyda/MachineLearning/blob/main/Capstone/AMii%20Capstone%20March%202023.pptx)
 * [PDF of Presentation](https://github.com/cboyda/MachineLearning/blob/main/Capstone/AMii%20Capstone%20March%202023.pdf)
 * [Google Colab Python Group Project File](https://github.com/cboyda/MachineLearning/blob/main/Capstone/Capstone_Team1_W23.ipynb) 
@@ -19,7 +19,7 @@ from [New York City Airbnb Open Data](https://www.kaggle.com/datasets/dgomonov/n
 * Mohammad Tanvir Hossain
 * Clinton Boyda
 
-## Project Scores:
+### Project Scores:
 * Presentation and Visualization: 92%
 * Project Scoping: 92%
 * Data Cleaning and Preprocessing: 90%
