@@ -19,15 +19,15 @@ from [New York City Airbnb Open Data](https://www.kaggle.com/datasets/dgomonov/n
 * Mohammad Tanvir Hossain
 * Clinton Boyda
 
-### Overall Feedback:
-> "Very good and coherent presentation on all aspects.  You demonstrated a good understanding of the subject and put a considerable amount of effort into the project."
-
 ## Project Scores:
 * Presentation and Visualization: 92%
 * Project Scoping: 92%
 * Data Cleaning and Preprocessing: 90%
 * Business Value: 88%
 * Technical Value: 82%
+
+## Overall Feedback:
+> "Very good and coherent presentation on all aspects.  You demonstrated a good understanding of the subject and put a considerable amount of effort into the project."
 
 
 
