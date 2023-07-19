@@ -12,7 +12,7 @@ from [New York City Airbnb Open Data](https://www.kaggle.com/datasets/dgomonov/n
 * [Original AirBnb](https://github.com/cboyda/MachineLearning/blob/main/datasets/AB_NYC_2019.csv)
 * [Merged Additional AirBnb Columns](https://github.com/cboyda/MachineLearning/blob/main/datasets/full_nyc_dataset_cleaned_table-1.csv)
 
-## Team Members:
+#### Team Members:
 * Cailenys Leslie
 * Ram Dershan
 * Brett Adams
