@@ -3,7 +3,7 @@
 Completed training certification program from [amii.ca](https://www.amii.ca/training/ml-tech-course/)
 
 1. Google Colab utilized for lessons and assignments
-2. [Final Capstone](https://github.com/cboyda/MachineLearning/blob/main/Capstone/readme) focused on AirBnb dataset to reveal model insights
+2. [Final Capstone](https://github.com/cboyda/MachineLearning/blob/main/Capstone/readme.md) focused on AirBnb dataset to reveal model insights
 
 Continuing my understanding of how the human mind and brain work, completed this science-based approach to applying machine learning (ML) by identifying the scope and aligning with business goals, including determining where ML solutions can be effectively applied.
 
