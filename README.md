@@ -1,6 +1,6 @@
 # Machine Learning Technician
 
-Completed training from [amii.ca](https://amii.ca](https://www.amii.ca/training/ml-tech-course/)
+Completed training from [amii.ca](https://www.amii.ca/training/ml-tech-course/)
 
 1. Google Colab utilized for lessons and assignments
 2. [Final Capstone](https://github.com/cboyda/MachineLearning/blob/main/Capstone/readme) focused on AirBnb dataset to reveal model insights
