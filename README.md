@@ -18,4 +18,4 @@ Continuing my understanding of how the human mind and brain work, completed this
 
 Yes, I am available [for hire](https://www.linkedin.com/in/clintonboyda/)
 
-> [View Certification of Completion?](https://www.credential.net/63baef96-a91c-40b5-9e9c-f09c0be3b70f)
+> [View Certification of Completion?](https://www.credential.net/82a75e50-039d-42ce-8a27-89531fdfa3cd#acc.3QKcbNMR)
